@@ -40,7 +40,7 @@ router.get('/mongodb', function (request, response) {
         });
     });//end of connect
 
-});//end XXX.get
+});//end XXX.get  ok
 
 
 
